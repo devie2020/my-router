@@ -1,0 +1,16 @@
+#app {
+	text-align: center;
+}
+
+.router-nav {
+	height: 30px;
+	line-height: 30px;
+}
+
+.router-nav > a {
+	cursor: pointer;
+}
+
+.router-nav > a:hover {
+	text-decoration: underline;
+}
